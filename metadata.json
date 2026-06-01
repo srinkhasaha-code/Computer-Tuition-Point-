@@ -1,0 +1,6 @@
+{
+  "name": "Computer Tuition Point",
+  "description": "Official website for Computer Tuition Point, a premium coaching center for programming, web development, school syllabi, and computer fundamentals, featuring interactive course explorers, fee calculators, and skill assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
